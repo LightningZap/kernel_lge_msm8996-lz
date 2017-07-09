@@ -2,7 +2,7 @@ VERSION = 3
 PATCHLEVEL = 18
 SUBLEVEL = 31
 EXTRAVERSION =
-NAME = Shuffling Zombie Juror
+NAME = Thomas.Raines
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
